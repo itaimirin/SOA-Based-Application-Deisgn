@@ -36,6 +36,7 @@ Interfaces provide an access point to the methods of interest by the Client and 
 Publishers open ports that listen for services being requested by the client.
 
 ----------------Usage--------------------------
+
 1. Publish Servers (Services)
 2. Publish SOAP API Gateway
 3. Initiate Client
