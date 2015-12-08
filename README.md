@@ -8,6 +8,7 @@ ZIP contains: 3 Different Packages
 -README.txt
 
 -------------------FILES-------------------------
+
 SOAP contains Java files for:
 API Gateway Implementation 
 API Interface
@@ -26,6 +27,7 @@ SOAPCLIENT contains Java files for:
 The Client
 
 ----------------Description---------------------
+
 Implementation files handle the Remode Methods invoked by the client as well as the API to the server.
 It provides the instructions on the methods invoked remotely. 
 
