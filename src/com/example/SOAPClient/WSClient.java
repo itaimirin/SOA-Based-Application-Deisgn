@@ -1,7 +1,7 @@
 package com.example.SOAPClient;
-/////////////////////////////////
-//By: Itai Marongwe - 100885911//
-/////////////////////////////////
+//////////////////////
+//By: Itai Marongwe //
+//////////////////////
 import java.net.URL;
 import java.util.Scanner;
 import javax.xml.namespace.QName;
@@ -11,7 +11,7 @@ import com.example.SOAP.APIInterface;
 public class WSClient{
 	
 	public WSClient(){
-		
+		//TODO - mutators 
 	}
 	
 	public static void main(String args[]) throws Exception {
